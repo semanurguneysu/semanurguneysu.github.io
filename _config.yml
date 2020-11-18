@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Blog
+title: Semanur Güneysu
 
 # Your name to show in the footer
 author: Semanur Güneysu
@@ -35,14 +35,14 @@ round-avatar: true
 
 # --- Footer social media links --- #
 
-# Select the social network links that you want to show in the footer.
+# Select the social network links that you want to show in the footer.l
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 #  email: "someone@example.com"
   github: semanurguneysu
   twitter: semanurtg
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: semanurg
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
