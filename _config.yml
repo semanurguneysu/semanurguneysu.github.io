@@ -16,7 +16,7 @@ author: Semanur Güneysu
 navbar-links:
   About Me: "aboutme"
 # Resources:
-  Archive: "archive"
+  Archive: archive
   Home: "https://semanurguneysu.github.io/"
 
 # --- Logo --- #
