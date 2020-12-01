@@ -10,7 +10,7 @@ subtitle:
 
 Merhaba.
 
-Ben Semanur.Siber güvenlik analisti bir matematik mühendisiyim.
+Ben Semanur.Siber güvenlik analisti olarak kendini tanımlayan bir matematik mühendisiyi :)
 
 Blogumda yer alan iletişim kanallarının herhangi birinden bana ulaşabilirsiniz.
 
